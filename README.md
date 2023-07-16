@@ -11,7 +11,7 @@ The fraud detection model uses the "Fraud.csv" dataset, which contains informati
 ## Installation
 
 1. Clone the repository:
-git clone <repository_url>
+git clone <[repository_url](https://github.com/SubodhSingh5436/Fraud.git)>
 
 
 
